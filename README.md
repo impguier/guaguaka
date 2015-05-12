@@ -1,7 +1,8 @@
 # guaguaka
+
 刮刮卡效果--DEMO
 
-        1、初始canvas；
+*       1、初始canvas；
 *       2、利用canvas的drawImage在canvas上绘制图片；
 *       3、判别window内有无touch系列方法，无就赋于mouse系列操作名；
 *       4、touchstart / mousedown ，获取鼠标/手势 位置，将起始点移动到目标位置
